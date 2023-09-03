@@ -345,12 +345,12 @@
         },
         {
           "id": "07",
-          "category": "Web Design",
+          "category": "Ux Desigin",
           "bage":{
-            "imgUrl": "bander",
-          "title": "Hosting && Booking Website",
+            "imgUrl": "../../../images/ui-2.png",
+          "title": "تطبيق غالى الائتمان",
           "description":
-            "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
+            "تصميم تطبيق غالى الائتمان ui && ux",
           "technologies": ["html", " css", "js", "bootstrap" , "react"],
           "siteUrl": "https://warm-platypus-62d546.netlify.app/",
               "client":{
@@ -362,12 +362,12 @@
         },
         {
           "id": "08",
-          "category": "Web Design",
+          "category": "Ux Desigin",
           "bage":{
-            "imgUrl": "footbal",
-            "title": "Footbal Website",
+            "imgUrl": "../../../images/ui-4.png",
+            "title": "Alconcierge Website",
             "description":
-              "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
+              "ui && ux Alconcierge Website",
             "technologies": ["html", " css", "js", "bootstrap" , "react"],
             "siteUrl": "https://astrophile.onrender.com/",
               "client":{
@@ -375,158 +375,6 @@
                 "urimage":"image"
               }
             }
-         
-        },
-        {
-          "id": "09",
-          "category": "Ux Desigin",
-          "bage":{
-            "imgUrl": "portfolioImg02",
-            "title": "Video Conference Website",
-            "description":
-              "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
-            "technologies": ["React", "Tailwind css", "Node.js", "MongoDB"],
-            "siteUrl": "#",
-              "client":{
-                "name":"mohamed ahemd",
-                "urimage":"image"
-              }
-        }
-      
-        },
-        {
-          "id": "10",
-          "category": "Ux Desigin",
-          "bage":{
-            "imgUrl": "portfolioImg03",
-          "title": "File Sharing Website",
-          "description":
-            "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
-          "technologies": ["React", "Tailwind css", "Node.js", "MongoDB"],
-          "siteUrl": "#",
-              "client":{
-                "name":"mohamed ahemd",
-                "urimage":"image"
-              }
-        }
-        
-        },
-        {
-          "id": "11",
-          "category": "Web Design",
-          "bage":{
-            "imgUrl": "portfolioImg04",
-            "title": "Landing Page",
-            "description":
-              "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
-            "technologies": ["React", "Tailwind css", "Node.js", "MongoDB"],
-            "siteUrl": "#",
-              "client":{
-                "name":"mohamed ahemd",
-                "urimage":"image"
-              }
-        }
-         
-        },
-        {
-          "id": "12",
-          "category": "Web Design",
-          "bage":{
-            "imgUrl": "portfolioImg05",
-            "title": "Landing Page",
-            "description":
-              "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
-            "technologies": ["React", "Tailwind css", "Node.js", "MongoDB"],
-            "siteUrl": "#",
-              "client":{
-                "name":"mohamed ahemd",
-                "urimage":"image"
-              }
-        }
-        },
-        {
-          "id": "13",
-          "category": "Web Design",
-          "bage":{
-            "imgUrl": "portfolioImg06",
-            "title": "Online Therapy Website",
-            "description":
-              "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
-            "technologies": ["React", "Tailwind css", "Node.js", "MongoDB"],
-            "siteUrl": "#",
-              "client":{
-                "name":"mohamed ahemd",
-                "urimage":"image"
-              }
-        }
-        
-        },
-        {
-          "id": "14",
-          "category": "Ux Desigin",
-          "bage":{
-            "imgUrl": "portfolioImg07",
-            "title": "Appointment Booking Website",
-            "description":
-              "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
-            "technologies": ["React", "Tailwind css", "Node.js", "MongoDB"],
-           "siteUrl" : "#",
-              "client":{
-                "name":"mohamed ahemd",
-                "urimage":"image"
-              }
-        }
-        
-        },
-        {
-          "id": "015",
-          "category": "Ux Desigin",
-          "bage":{
-            "title": "تصميم تطبيق للعقارات",
-            "description":
-            "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
-          "technologies": ["html" , "css" , "js" , "react"],
-          "imgUrl": "../../../images/app1.jpg",
-          "siteUrl": "#",
-          "client":{
-            "name":"mohamed ahemd",
-            "urimage":""
-          }
-          }
-         
-        },
-        {
-          "id": "016",
-          "category": "Ux Desigin",
-          "bage":{
-            "title": "clinic اهتم بحيوانك",
-            "description":
-            "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
-          "technologies": ["html" , "css" , "js" , "react"],
-          "imgUrl": "../../../images/app2.jpg",
-          "siteUrl": "#",
-          "client":{
-            "name":"mohamed ahemd",
-            "urimage":""
-          }
-          }
-         
-        },
-        {
-          "id": "017",
-          "category": "Ux Desigin",
-          "bage":{
-            "title": "مزاج القهوه",
-            "description":
-            "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
-          "technologies": ["html" , "css" , "js" , "react"],
-          "imgUrl": "../../../images/app3.jpg",
-          "siteUrl": "#",
-          "client":{
-            "name":"mohamed ahemd",
-            "urimage":""
-          }
-          }
          
         }
       ],

@@ -1,4 +1,4 @@
-import React from 'react';
+import React ,  { lazy , Suspense} from 'react';
 import ReactDOM from 'react-dom/client';
 import i18n from "i18next";
 import {initReactI18next } from "react-i18next";
@@ -11,7 +11,7 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
-import App from './App';
+import Loading from './components/loading/Loading'; 
 import { AppProvider } from './components/context/context.jsx';
 
 i18n
@@ -32,10 +32,11 @@ backend: {
 
 
   const root = ReactDOM.createRoot(document.getElementById('root'));
+  const Applazy = lazy (() => import ('./App.js'))
 root.render(
   <React.StrictMode>
   <AppProvider>
-        <App />
+        <Suspense fallback = {Loading}><Applazy /></Suspense>
         <ToastContainer style={{zIndex : "9999999999999"}}  position="top-center" />
   </AppProvider>
     

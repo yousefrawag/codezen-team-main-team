@@ -1,16 +1,10 @@
 import React, { Suspense, lazy, useEffect } from "react";
 import { BrowserRouter, Routes, Route, createBrowserRouter , RouterProvider} from "react-router-dom";
 import Layout from './components/layout/Layout';
-import Erorrpage from "./components/pages/erornotfound/Erorrpage";
-import Loading from "./components/loading/Loading";
-
+import {Home ,About , Erorrpage , Servies ,OurWork , Contact , SingleProduct} from "./components/pages/index"
 const App = () => {
-  const Homelazy = lazy (() => import ('./components/pages/home/Home'))
-  const Aboutlazy = lazy (() => import ('./components/pages/about/About'))
-  const Servieslazy = lazy (() => import ('./components/pages/servies/Servies'))
-  const Contactlazy = lazy (() => import ('./components/pages/contact/Contact'))
-  const Singelproductlazy = lazy (() => import ("./components/pages/singleProduct/SingleProduct"))
-  const Ourworklazy = lazy (() => import ('./components/pages/ourWork/Our-Work'))
+
+ 
 
 
 /*   const handleCopy = (event) => {
@@ -32,33 +26,33 @@ const router = createBrowserRouter([
     errorElement:<Erorrpage />,
     children:[
       {
-       element:<Suspense fallback = { <Loading />}> <Homelazy /></Suspense>,
+       element: <Home />,
         index:true,
         
       },
       {
         path:"about",
-        element:<Suspense fallback = { <Loading />}> <Aboutlazy/></Suspense>
+        element: <About/>
         
       },
       {
         path:"servies",
-        element:<Suspense fallback = { <Loading />}> <Servieslazy /></Suspense>
+        element: <Servies />
         
       },
       {
         path:"our-work",
-        element:<Suspense fallback = { <Loading />}> <Ourworklazy /></Suspense>
+        element: <OurWork />
         
       },
       {
         path:"contact",
-        element:<Suspense fallback = { <Loading />}> <Contactlazy /></Suspense>
+        element: <Contact />
         
       },
       {
         path:"SingleProduct/:id",
-        element:<Suspense fallback = { <Loading />}> <Singelproductlazy /></Suspense>
+        element: <SingleProduct />
         
       },
     ]
