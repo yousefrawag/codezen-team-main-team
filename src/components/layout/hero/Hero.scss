@@ -1,0 +1,132 @@
+   @import '../../variables/variables.scss';
+   @import '../../variables/mixins.scss';
+
+
+#title {
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    top: 0;
+    left: 0;
+    z-index: 9999;
+    color: #FFF;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    .text-title {
+        color: white;
+        width: 100%;
+        text-align: start;
+        margin-top: 4rem;
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        p {
+            font-size: 38px;
+            text-transform: capitalize;
+            line-height: 1.8;
+            font-weight: bold;
+            span {
+                color: $color-1 !important
+            }
+        }
+        a {
+            @include creatBtn;
+            margin: 20px 10px;
+            background-color: $color-2;
+            padding: .6rem 0;
+            &:hover {
+                background-color: $color-1;
+                color: black;
+            }
+          }
+        }
+        .ava-img  {
+            display: flex;
+            justify-content: center;
+            flex-direction: column;
+            height: 100%;
+          img {
+              width: 600px;
+              object-fit: cover;
+              margin-top: 100px;
+          }
+      
+        }
+}
+
+
+@media screen and (max-width: 768px) {
+
+
+  #title {
+            .text-title {
+                text-align: center !important;
+                margin-top: 8rem!important;
+            p {
+                font-size: 25px;
+                text-transform: capitalize;
+                  line-height: 1.8;
+                  width: 100%!important;
+
+            } }
+
+            #title .text-title a {
+                @include creatBtn;
+                margin: 20px 10px;
+                background-color: $color-2;
+                &:hover {
+                    background-color: $color-1;
+                    color: white;
+                }
+            } 
+            .ava-img{
+                display: none;
+            } 
+            .text-title {
+                -webkit-text-fill-color: white;
+                width: 100%;
+                text-align: start;
+                margin-top: 6rem;
+            
+            } 
+}   
+}
+@media screen and (min-width:200px) and (max-width: 500px) {
+
+
+    #title {
+              .text-title {
+                margin-top: 9rem !important;
+                  text-align: center !important;
+              p {
+                  font-size: 23px;
+                  text-transform: capitalize;
+                    line-height: 1.8;
+                    width: 100%!important;
+  
+              } }
+  
+              #title .text-title a {
+                  @include creatBtn;
+                  margin: 20px 10px;
+                  background-color: $color-2;
+                  &:hover {
+                      background-color: $color-1;
+                      color: white;
+                  }
+              } 
+              .ava-img{
+                  display: none;
+              } 
+              .text-title {
+                  -webkit-text-fill-color: white;
+                  width: 100%;
+                  text-align: start;
+                  margin-top: 6rem;
+              
+              } 
+  }   
+  }
