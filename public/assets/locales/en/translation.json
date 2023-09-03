@@ -76,7 +76,7 @@
       },
       {
           "id":6,
-          "iconUrl": "../../../images/sevices-single-7.png",
+          "iconUrl": "../../../images/sevices-single-6.png",
           "explore" :["Designing logos and brands" , "Sochail Media Design" , "Graphic design and images " , "Designing posters and banners"],
           "header":"Graphic Design",
           "text":"We provide graphic design services, which include designing images, graphics, charts, and other visual elements used in marketing, advertising, and communication. Graphic design involves the use of colors, fonts, images, and graphics to convey a specific message and make it more convincing and appealing to customers. We work professionally and aim to achieve the best results for our clients in the shortest possible time"
@@ -188,25 +188,25 @@
 
   "Projects_title":"our work",
    "Projects": [
-      {
-        "id": "01",
-        "category": "Web Design",
-        "bage":{
-          "title": "Koura world website",
-          "description":
-         " “The World of Koura website is a website that specializes in sports news and follows the results of matches and all leagues and the ability to follow the matches live.”",
-        "technologies": ["html" , "css" , "js" , "react"],
-        "imgUrl": "../../../images/img-pro-1.png",
-        "siteUrl": "#",
-        "client":{
-          "name":"mohamed ahemd",
-          "urimage":""
+    {
+      "id": "01",
+      "category": "Ux Desigin",
+      "bage":{
+        "imgUrl": "../../../images/ui-7.png",
+        "title": "Muasasat Matuafi Hujaj Turkia App",
+        "description":
+          "ui && ux Muasasat Matuafi Hujaj Turkia App",
+        "technologies": ["html", " css", "js", "bootstrap" , "react"],
+        "siteUrl": "https://astrophile.onrender.com/",
+          "client":{
+            "name":"mohamed ahemd",
+            "urimage":"image"
+          }
         }
-        }
-       
-      },
+     
+    },
       {
-        "id": "040",
+        "id": "02",
         "category": "Web Design",
         "bage":{
           "title": "Trendad company ",
@@ -224,7 +224,7 @@
       
       },
       {
-        "id": "050",
+        "id": "03",
         "category":"Web Design", 
         "bage":{
           "imgUrl":"../../../images/Screenshot (145).png",
@@ -260,7 +260,7 @@
       },
       
       {
-        "id": "0100",
+        "id": "05",
         "category": "Web Design",
         "bage":{
           "title": "Ocoda Design Services",
@@ -276,79 +276,7 @@
        
       },
       {
-        "id": "03",
-        "imgUrl": "company1",
-        "category": "Web Design",
-        "bage":{
-          "title": "Website for Connect Power",
-          "description":"“Engineering consulting website for the Emirati company Connet Power. The website talks about the company and its work, means of communication, the latest projects, a dedicated page for each project, and communication via email as well.”",
-          "technologies": ["html", " css", "js", "bootstrap"],
-          "siteUrl": "#",
-        "imgUrl": "../../../../images/img-pro-3.png",
-        "client":{
-          "name":"mohamed ahemd",
-          "urimage":""
-        }
-       
-        }
-      
-      },
-      {
-        "id": "02", 
-        "category": "Ux Desigin",
-        "bage":{
-          "title": "Portfilo website",
-          "description":
-          "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
-        "technologies": ["html", " css", "js"],
-        "imgUrl": "../../../images/img-pro-2.png",
-        "siteUrl": "#",
-        "client":{
-          "name":"mohamed ahemd",
-          "urimage":""
-        }
-        }
-        
-      },
-    
-
-      {
-        "id": "05",
-        "category": "Web Design",
-        "bage":{
-          "imgUrl": "../../../../images/img-pro-5.jpg",
-          "title": "Courses online website",
-          "description":
-            "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
-          "technologies":  ["html", " css", "js", "bootstrap" , "jeQuery"],
-          "siteUrl": "#",
-        "client":{
-          "name":"mohamed ahemd",
-          "urimage":""
-        }
-        }
-       
-      },
-    
-      {
         "id": "06",
-        "category": "Web Design",
-        "bage":{
-      "imgUrl": "../../../../images/img-pro-6.jpg",
-        "title": "Real state website",
-        "description":
-          "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
-        "technologies": ["html", " css", "js", "bootstrap" , "react"],
-        "siteUrl": "#",
-        "client":{
-          "name":"mohamed ahemd",
-          "urimage":""
-        }
-        }
-       
-      },
-      {
-        "id": "07",
         "category": "Ux Desigin",
         "bage":{
           "imgUrl": "../../../images/ui-2.png",
@@ -365,7 +293,48 @@
        
       },
       {
+        "id": "07",
+        "category": "Web Design",
+        "bage":{
+          "title": "Koura world website",
+          "description":
+         " “The World of Koura website is a website that specializes in sports news and follows the results of matches and all leagues and the ability to follow the matches live.”",
+        "technologies": ["html" , "css" , "js" , "react"],
+        "imgUrl": "../../../images/img-pro-1.png",
+        "siteUrl": "#",
+        "client":{
+          "name":"mohamed ahemd",
+          "urimage":""
+        }
+        }
+       
+      },
+      {
         "id": "08",
+        "imgUrl": "company1",
+        "category": "Web Design",
+        "bage":{
+          "title": "Website for Connect Power",
+          "description":"“Engineering consulting website for the Emirati company Connet Power. The website talks about the company and its work, means of communication, the latest projects, a dedicated page for each project, and communication via email as well.”",
+          "technologies": ["html", " css", "js", "bootstrap"],
+          "siteUrl": "#",
+        "imgUrl": "../../../../images/img-pro-3.png",
+        "client":{
+          "name":"mohamed ahemd",
+          "urimage":""
+        }
+       
+        }
+      
+      },
+    
+
+     
+    
+      
+    
+      {
+        "id": "09",
         "category": "Ux Desigin",
         "bage":{
           "imgUrl": "../../../images/ui-4.png",
@@ -380,6 +349,73 @@
             }
           }
        
+      },
+      
+      {
+        "id": "10",
+        "category": "Ux Desigin",
+        "bage":{
+          "imgUrl": "../../../images/ui-6.png",
+          "title": "Alconcierge-Website",
+          "description":
+            "ui && ux Alconcierge Website",
+          "technologies": ["html", " css", "js", "bootstrap" , "react"],
+          "siteUrl": "https://astrophile.onrender.com/",
+            "client":{
+              "name":"mohamed ahemd",
+              "urimage":"image"
+            }
+          }
+       
+      },
+       {
+        "id": "11",
+        "category": "Web Design",
+        "bage":{
+          "imgUrl": "../../../../images/img-pro-5.jpg",
+          "title": "Software and marketing company",
+          "description":
+          "User interface design for a software and marketing company",
+          "technologies":  ["html", " css", "js", "bootstrap" , "jeQuery"],
+          "siteUrl": "#",
+        "client":{
+          "name":"mohamed ahemd",
+          "urimage":""
+        }
+        }
+       
+      },{
+        "id": "12",
+        "category": "Ux Desigin",
+        "bage":{
+      "imgUrl": "../../../../images/img-pro-6.jpg",
+        "title": "Software and marketing company",
+        "description":
+        "User interface design for a software and marketing company",
+        "technologies": ["html", " css", "js", "bootstrap" , "react"],
+        "siteUrl": "#",
+        "client":{
+          "name":"mohamed ahemd",
+          "urimage":""
+        }
+        }
+       
+      },{
+        "id": "13", 
+        "category": "Ux Desigin",
+        "bage":{
+          "title": "E-commerce website",
+          "description":
+          "An e-commerce website with full site features. It allows the customer to open an account via Facebook or Google and see all products and a dedicated page for each product. It also allows for filtering products by price, best seller, or newest.",
+        "technologies": ["html", " css", "js"],
+        "imgUrl": "../../../images/img-pro-2.png",
+        "siteUrl": "#",
+        "client":{
+          "name":"mohamed ahemd",
+          "urimage":""
+        }
+        }
+        
       }
       
     ],
@@ -387,80 +423,104 @@
     "provile_text" :"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     "provile_header" :"codezen team",
     "provile_header_text" :"a team of exparts in everything you need",
+ 
     "team_staff" :[
-      {
-        "id" : "01",
-        "name":"mohamed kamal",
-        "jop_type" : "web developer ( team leader )",
-        "subtitle":"Developed web frontends and maintains and improves websites and interfaces to suit different devices",
-        "description" :" Mohame Kamal A Web Front-End Developer is responsible for using their knowledge of programming languages such as HTML, CSS, and JavaScript to create user-friendly web pages and interfaces. They develop the visual elements and clickable buttons that make up the user-side applications and sites that people interact with on the web. They work closely with clients to determine their needs and ensure that the websites and web applications they create are optimized for desktop and mobile devices. The Web Front-End Developer is also responsible for maintaining and improving websites and interfaces to ensure that they continue to meet the evolving needs of users.",
-        "image":"../../../images/photo1685202021.jpg",
-        "technologies":["html5" , "css3" , "javascript" , "react " , "react_query" , "jeQuery" , "Tailwind css" , "bootstrap" , "fairebase"],
-        "project_complate" :"20",
-        "experince" :"3 years"
-        
-      },
-      {
-        "id" : "02",
-        "name":"yousef rawag",
-        "subtitle" :"Developed web frontends and maintains and improves websites and interfaces to suit different devices",
-        "jop_type" : "web developer ( team leader )",
-        "description" :"Youse Rawag A Web Front-End Developer is responsible for using their knowledge of programming languages such as HTML, CSS, and JavaScript to create user-friendly web pages and interfaces. They develop the visual elements and clickable buttons that make up the user-side applications and sites that people interact with on the web. They work closely with clients to determine their needs and ensure that the websites and web applications they create are optimized for desktop and mobile devices. The Web Front-End Developer is also responsible for maintaining and improving websites and interfaces to ensure that they continue to meet the evolving needs of users.",
-        "image":"../../../images/reduce.png",
-        "technologies":["html5" , "css3" , "javascript" , "react " , "react_query" , "jeQuery" , "Tailwind css" , "bootstrap" , "fairebase"],
-        "project_complate" :"20",
-        "experince" :"3 years"
-        
-      },
-      {
-        "id" : "03",
-        "name":"wael kamal",
-        "jop_type" : "team leader",
-        "subtitle":"Team Founder, SEO Team Leader and Brand Builder && is a professional SEO expert with vast experience",
-        "image":"../../../images/lood-user.avif",
-        "description": "Wale Kamal (the founder) is a professional SEO expert with vast experience in search engine management and e-marketing. He has successfully developed and created many brands in Egypt and abroad. wale kamel has extensive skills and experience in search engine optimization, which qualifies him to help you climb to the first page's top results with a clear and organized plan. He can help with website management, competitor analysis, preparing integrated marketing plans, and developing necessary strategies for the success of your brand. Ahmed Nofal's skills also include great experience in many programming languages, which enables him to perform his mission with distinction and success.",
-        "technologies":["php" , "Node.js" , "sql" , "dtabase mangment ", "c++" , "c#" , "laravel " , "expresses.js"],
-        "project_complate" :"15",
-        "experince" :"2 years"
-        
-      },
-      {
-        "id" : "04",
-        "name":"yousef essam",
-        "jop_type" : "Graphic designer",
-        "subtitle" :"Graphic designer specializing in social media, print and visual identity designs && publications for the graphic",
-        "image":"../../../images/lood-user.avif",
-        "description" :"yousef essam have experince to convert any design to website and  work in big projects with react framework experince with work in big projects with and comportable with working api and bakend",
-        "technologies":["fagma" , "pohatosop" , "logo design" , "socail medai desiagn " , "edit images "],
-        "project_complate" :"15",
-        "experince" :"2 years"
-        
-      },
-      {
-        "id" : "05",
-        "name":"omare ahmed",
-        "jop_type" : "back-end developer",
-        "subtitle":"Senior software engineer specialized in creating and programming website && and specialized in managing vps ",
-        "image":"../../../images/lood-user.avif",
-        "description" : "A Web Back-End Developer is responsible for using their knowledge of programming languages such as HTML, CSS, and JavaScript to create user-friendly web pages and interfaces. They develop the visual elements and clickable buttons that make up the user-side applications and sites that people interact with on the web. They work closely with clients to determine their needs and ensure that the websites and web applications they create are optimized for desktop and mobile devices. The Web Front-End Developer is also responsible for maintaining and improving websites and interfaces to ensure that they continue to meet the evolving needs of users.",
-        "technologies":["php" , "Node.js" , "sql" , "dtabase mangment " , "laravel " , "expresses.js"],
-        "project_complate" :"15",
-        "experince" :"2 years"
-        
-      },
-      {
-        "id" : "06",
-        "name":"hager ahmed",
-        "jop_type" : "marketing",
-        "image":"../../../images/lood-user.avif",
-        "subtitle":"A member of the marketing team at Nofal Seo, who is responsible for communicating ",
-        "description" :"hager ahmed A member of the marketing team at Nofal Seo, who is responsible for communicating experince with work in big projects with and comportable with working api and bakend",
-        "technologies":["facebook ads" , "instgram ads" , "sanpshite ads" , "google ads" ],
-        "project_complate" :"15",
-        "experince" :"2 years"
-        
-      }
-    ],
+          {
+            "id" : "01",
+            "name":"mohamed kamal",
+            "jop_type" : "web developer ( team leader )",
+            "subtitle":"Developed web frontends and maintains and improves websites and interfaces to suit different devices",
+            "description" :" Mohame Kamal A Web Front-End Developer is responsible for using their knowledge of programming languages such as HTML, CSS, and JavaScript to create user-friendly web pages and interfaces. They develop the visual elements and clickable buttons that make up the user-side applications and sites that people interact with on the web. They work closely with clients to determine their needs and ensure that the websites and web applications they create are optimized for desktop and mobile devices. The Web Front-End Developer is also responsible for maintaining and improving websites and interfaces to ensure that they continue to meet the evolving needs of users.",
+            "image":"../../../images/photo1685202021.jpg",
+            "technologies":["facebook ads" , "instgram ads" , "sanpshite ads" , "google ads" ],            
+            "project_complate" :"20",
+            "experince" :"3 years"
+            
+          },
+          {
+            "id" : "02",
+            "name":"yousef rawag",
+            "subtitle" :"Developed web frontends and maintains and improves websites and interfaces to suit different devices",
+            "jop_type" : "web developer ( team leader )",
+            "description" :"Youse Rawag A Web Front-End Developer is responsible for using their knowledge of programming languages such as HTML, CSS, and JavaScript to create user-friendly web pages and interfaces. They develop the visual elements and clickable buttons that make up the user-side applications and sites that people interact with on the web. They work closely with clients to determine their needs and ensure that the websites and web applications they create are optimized for desktop and mobile devices. The Web Front-End Developer is also responsible for maintaining and improving websites and interfaces to ensure that they continue to meet the evolving needs of users.",
+            "image":"../../../images/reduce.png",
+            "technologies":["facebook ads" , "instgram ads" , "sanpshite ads" , "google ads" ],            
+            "project_complate" :"20",
+            "experince" :"3 years"
+            
+          },
+          {
+            "id" : "03",
+            "name":"wael kamal",
+            "jop_type" : "team leader",
+            "subtitle":"Team Founder, SEO Team Leader and Brand Builder && is a professional SEO expert with vast experience",
+            "image":"../../../images/wael.jpg",
+            "description": "Wale Kamal (the founder) is a professional SEO expert with vast experience in search engine management and e-marketing. He has successfully developed and created many brands in Egypt and abroad. wale kamel has extensive skills and experience in search engine optimization, which qualifies him to help you climb to the first page's top results with a clear and organized plan. He can help with website management, competitor analysis, preparing integrated marketing plans, and developing necessary strategies for the success of your brand. Ahmed Nofal's skills also include great experience in many programming languages, which enables him to perform his mission with distinction and success.",
+            "technologies":["facebook ads" , "instgram ads" , "sanpshite ads" , "google ads" ],            "project_complate" :"15",
+            "experince" :"2 years"
+            
+          },
+          {
+            "id" : "04",
+            "name":"yousef essam",
+            "jop_type" : "Graphic designer",
+            "subtitle" :"Graphic designer specializing in social media, print and visual identity designs && publications for the graphic",
+            "image":"../../../images/lood-user.avif",
+            "description" :"yousef essam have experince to convert any design to website and  work in big projects with react framework experince with work in big projects with and comportable with working api and bakend",
+            "technologies":["facebook ads" , "instgram ads" , "sanpshite ads" , "google ads" ],
+            "project_complate" :"15",
+            "experince" :"2 years"
+            
+          },
+          {
+            "id" : "05",
+            "name":"Omar Ahmed",
+            "jop_type" : "back-end developer",
+            "subtitle":"Senior software engineer specialized in creating and programming website && and specialized in managing vps ",
+            "image":"../../../images/lood-user.avif",
+            "description" : "A Web Back-End Developer is responsible for using their knowledge of programming languages such as HTML, CSS, and JavaScript to create user-friendly web pages and interfaces. They develop the visual elements and clickable buttons that make up the user-side applications and sites that people interact with on the web. They work closely with clients to determine their needs and ensure that the websites and web applications they create are optimized for desktop and mobile devices. The Web Front-End Developer is also responsible for maintaining and improving websites and interfaces to ensure that they continue to meet the evolving needs of users.",
+            "technologies":["facebook ads" , "instgram ads" , "sanpshite ads" , "google ads" ],
+            "project_complate" :"15",
+            "experince" :"2 years"
+            
+          },
+          {
+            "id" : "06",
+            "name":"Ahmed Reda",
+            "jop_type" : "mobile application",
+            "image":"../../../images/lood-user.avif",
+            "subtitle":"A mobile application programmer designs and programs custom applications for mobile devices such as smartphones and tablets.",
+            "description" :"A mobile application programmer designs and programs custom applications for mobile devices such as smartphones and tablets.",
+            "technologies":["facebook ads" , "instgram ads" , "sanpshite ads" , "google ads" ],
+            "project_complate" :"15",
+            "experince" :"2 years"
+            
+          },
+          {
+            "id" : "07",
+            "name":"Raana Elnbawy",
+            "jop_type" : "UI & UX",
+            "image":"../../../images/lood-user.avif",
+            "subtitle":"UI/UX Designer is responsible for designing and developing the user interface and user experience for web applications, websites, and mobile applications. The UI/UX designer aims to create a comfortable, smooth, and attractive user experience for users.",
+            "description" :"UI/UX Designer is responsible for designing and developing the user interface and user experience for web applications, websites, and mobile applications. The UI/UX designer aims to create a comfortable, smooth, and attractive user experience for users.",
+            "technologies":["facebook ads" , "instgram ads" , "sanpshite ads" , "google ads" ],
+            "project_complate" :"15",
+            "experince" :"2 years"
+            
+          },
+          {
+            "id" : "08",
+            "name":"Dina Salah",
+            "jop_type" : "marketing",
+            "image":"../../../images/lood-user.avif",
+            "subtitle":"The Marketing Director is the one who works to promote and market the products or services provided by the company in a professional manner",
+            "description" :"The Marketing Director is the one who works to promote and market the products or services provided by the company in a professional manner",
+            "technologies":["facebook ads" , "instgram ads" , "sanpshite ads" , "google ads" ],
+            "project_complate" :"15",
+            "experince" :"2 years"
+            
+          }
+        ],
     "btn_ask_price": "Ask for a price",
     "about-me" :"About Me",
     "about": {
